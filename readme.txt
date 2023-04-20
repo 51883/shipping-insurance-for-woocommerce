@@ -41,6 +41,3 @@ Please visit the plugin's documentation and support forum for answers to common 
 * Initial release
 
 == Upgrade Notice ==
-
-= 1.0.0 =
-Initial release. No upgrade notice needed.
